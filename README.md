@@ -1,2 +1,2 @@
 # ejercicios-javascript-typescript
-Este es mi repositorio de ejercicos de javascript y typescript
+Este es mi repositorio de ejercicios de javascript y typescript
